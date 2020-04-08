@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Quickshot\Documents\Bluedot Engine Proyect\BluedotEngine\BluedotEngine\Main.cpp(32,8): warning C4101: 'Pos': variable local sin referencia
+C:\Users\Quickshot\Documents\Bluedot Engine Proyect\BluedotEngine\BluedotEngine\Main.cpp(33,8): warning C4101: 'Vel': variable local sin referencia
+C:\Users\Quickshot\Documents\Bluedot Engine Proyect\BluedotEngine\BluedotEngine\Main.cpp(31,8): warning C4101: 'Mass': variable local sin referencia
+  BluedotEngine.vcxproj -> C:\Users\Quickshot\Documents\Bluedot Engine Proyect\BluedotEngine\Debug\BluedotEngine.exe
