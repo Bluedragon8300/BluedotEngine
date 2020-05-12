@@ -1,0 +1,8 @@
+Controls > 
+
+Press to start: Press Spacebar to star the game.
+
+Movement: A/D to move left and right.
+
+Parachute: Press P to open and release to cut it. 
+
